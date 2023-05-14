@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm DavyCele</h1>
 <h3 align="center">Engineer Informatics from Italy</h3>
 
-# 💫 About Me:
+<h1 align="center">💫 About Me:</h1>
   Hello! My name is Davide, and I am a young graduate student looking for new challenges.  <br>Currently, I am working on 3D projects using Autocad and creating websites and written content using programming languages like Java, HTML, C++, and more. <br>I am very passionate about technology and enjoy expanding my skillset to improve my work.<br> I am constantly searching for new opportunities to grow and take on new challenges.
 
 
