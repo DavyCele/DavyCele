@@ -1,3 +1,4 @@
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thisiscolossal.com%2F2014%2F06%2Fdizzying-geometric-gifs-by-david-whyte%2F&psig=AOvVaw3-Erkn-hpT3iaSgcZ3RdPA&ust=1684153222417000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDXuebl9P4CFQAAAAAdAAAAABAE)")
 # 💫 About Me:
   Hello! My name is Davide, and I am a young graduate student looking for new challenges.  <br>Currently, I am working on 3D projects using Autocad and creating websites and written content using programming languages like Java, HTML, C++, and more. <br>I am very passionate about technology and enjoy expanding my skillset to improve my work.<br> I am constantly searching for new opportunities to grow and take on new challenges.
 
