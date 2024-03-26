@@ -3,7 +3,7 @@
 <h3 align="center">Engineer Informatics from Italy</h3>
 
 <h1 align="center">💫 About Me:</h1>
- Hello! My name is Davide, and I am a recent graduate in Computer Engineering with a strong passion for technology and innovation. Currently, I am exploring opportunities to apply my expertise and knowledge, particularly in the field of Artificial Intelligence. While my background includes working on 3D projects using Autocad and developing websites and applications with programming languages such as Java, HTML, and C++, I am also proficient in both software and hardware aspects of technology. I am driven by a continuous desire to enhance my skills and tackle new challenges, and I am eager to embark on new ventures that allow me to contribute to cutting-edge advancements in the field of technology.
+ Hello! My name is Davide, and I am a recent graduate in Computer Engineering with a strong passion for technology and innovation. Currently, I am exploring opportunities to apply my expertise and knowledge, particularly in the field of Artificial Intelligence. While my background includes working on 3D projects using Autocad and developing websites and applications with programming languages such as Java, HTML,CSS,JAVASCRIPT and other. I am also proficient in both software and hardware aspects of technology. I am driven by a continuous desire to enhance my skills and tackle new challenges, and I am eager to embark on new ventures that allow me to contribute to cutting-edge advancements in the field of technology.
 
 
 
